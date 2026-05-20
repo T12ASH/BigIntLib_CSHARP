@@ -1,0 +1,15 @@
+**/bin/
+**/obj/
+**/Debug/
+**/Release/
+**/TempPE/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.suo
+*.user
+*.vs
+.vs/
+.DS_Store
+Thumbs.db
